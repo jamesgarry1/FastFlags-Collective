@@ -105,13 +105,13 @@
 	"FFlagRenderDebugCheckThreading2": "True"
 }
 ```
-### no idea what this is lol
+### Maximum threads
 ```json
 {
 	"FIntRuntimeMaxNumOfThreads": "2400"
 }
 ```
-### no idea what this is too
+### Minimum Threads
 ```json
 {
 	"FIntTaskSchedulerThreadMin": "3"
