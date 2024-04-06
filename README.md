@@ -9,12 +9,22 @@
 ##### Version: 8.6.2 [4/5/2024]
 * **120 Currently Listed**
 
-## How to Use:
+## [Bloxstrap] How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
 2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Import Json`.**
 3. **Paste in the JSON.**
-4. **Save and you're good to go!**
+4. **Save and your good to go!**
 <img src="/assets/tutorial.gif" width="750"/>
+
+## [Normal Roblox Bootstrapper] How to Use:
+###### You can also do Roblox Studio
+1. **Navigate to your Roblox Installation directory. Typically found at `%localappdata%\Roblox\Versions\` for Windows or `C:\Program Files (x86)\Roblox\Versions`.**
+2. **Identify the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ You can do this for Roblox Studio too.**
+3. **Create a new folder named `ClientSettings`. Inside this folder, place the file `ClientAppSettings.json`.**
+4. **Paste the JSON into `ClientAppSettings.json`. (You can utilize ChatGPT to format multiple JSONs for clarity if needed)**
+5. **Save and your good to go!**
+
+[Watch a Video Tutorial](https://streamable.com/rk5an6)
 
  # List Navigation
 * **[Rendering](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#rendering)**
@@ -91,6 +101,13 @@
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
 
+### ESP HIGHLIGHT
+<!-- this is not real btw -->
+```json
+{
+	"FFlagRenderHighlightTransparency": "True",
+}
+```
 ### Draws a circle under avatars
 ```json
 {
@@ -897,6 +914,15 @@ High
 	"FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
+<!-- real shit
+### Infinite Bitches
+```json
+{
+	"DFFlagUserReceivesBitches": "True"
+}
+```
+-->
+
 
 <h1 align="center">Links</h1>
 
