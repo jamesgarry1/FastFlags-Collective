@@ -700,6 +700,15 @@ High
 	"FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
 }
 ```
+
+### increase ping
+##### rekitrelt pr'ed this and i cant merge btw
+```json
+{
+"DFIntDataSenderMaxBandwidthBps": "100",
+}
+```
+
 ### Sounds use physical velocity and become distorted
 ###### <2017
 ```json
