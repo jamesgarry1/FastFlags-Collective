@@ -662,12 +662,16 @@ High
 ```
 ### Wallglide
 ```json
-{
-	"DFIntUnstickForceAttackInTenths": "-4"
+{	"DFIntUnstickForceAttackInTenths": "-4"
 }
 ```
 
 <h1 align="center">other fflags</h1>
+
+### Favorite button on UGC Accessories
+```json
+{ "FFlagEnableFavoriteButtonForUgc":"true" }
+```
 
 ### Disable In-game Advertisements
 ```json
