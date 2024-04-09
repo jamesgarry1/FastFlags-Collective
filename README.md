@@ -690,7 +690,7 @@ High
 ### Adjust Scroll Speed
 ```json
 {
-    "FIntScrollWheelDeltaAmount": "140"
+	"FIntScrollWheelDeltaAmount": "140"
 }
 ```
 ### Surf the web inside of Roblox
