@@ -20,7 +20,7 @@
 ###### You can also do Roblox Studio
 1. **Navigate to your Roblox Installation directory. Typically found at `%localappdata%\Roblox\Versions\` for Windows or `C:\Program Files (x86)\Roblox\Versions`.**
 2. **Identify the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ You can do this for Roblox Studio too.**
-3. **Create a new folder named `ClientSettings`. Inside this folder, place the file `ClientAppSettings.json`.**
+3. **Create a new folder named `ClientSettings`. Inside this folder, make a file named `ClientAppSettings.json`.**
 4. **Paste the JSON into `ClientAppSettings.json`. (You can utilize ChatGPT to format multiple JSONs for clarity if needed)**
 5. **Save and your good to go!**
 ###### Do note that after Roblox updates you have to do this process again.
