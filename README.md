@@ -638,12 +638,12 @@ High
 ### Warp & Slowmotion <sup>Physics FPS cap</sup>
 ```json
 {
-	"DFIntMaxMissedWorldStepsRemembered": "1"
+	"DFIntMaxMissedWorldStepsRemembered": "1000"
 }
 ```
 ```json
 {
-	"DFIntMaxMissedWorldStepsRemembered": "1000"
+	"DFIntMaxMissedWorldStepsRemembered": "1"
 }
 ```
 ### Noclip
