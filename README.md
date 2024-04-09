@@ -689,7 +689,9 @@ High
 ```
 ### Adjust Scroll Speed
 ```json
-{ "FIntScrollWheelDeltaAmount": "140" }
+{
+    "FIntScrollWheelDeltaAmount": "140"
+}
 ```
 ### Surf the web inside of Roblox
 ###### Click the Beta badge or the 13+ badge to open the webview browser.
@@ -826,7 +828,7 @@ High
 }
 ```
 ### failsafehumanoid
-###### gray avatars
+###### clientsided gray avatars, This might not work anymore.
 ```json
 {
 	"FFlagFailsafeHumanoid_3": "True"
