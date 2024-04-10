@@ -102,6 +102,13 @@
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
 
+### Real Swim Fly
+<!-- this is not real btw -->
+```json
+{
+	"DFFlagHumanoidIsInSwimState": "True",
+}
+```
 ### ESP HIGHLIGHT
 <!-- this is not real btw -->
 ```json
@@ -594,15 +601,12 @@ High
 	"DFIntNewRunningBaseGravityReductionFactorHundredth": "1500"
 }
 ```
-<!--
-### Change DataSender Rate
-###### a.k.a dos not let you load games
+### Change Data Sender Rate
 ```json
 {
 	"DFIntDataSenderRate": "-1"
 }
 ```
- -->
 ### Disable Touch Events
 ```json
 {
