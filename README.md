@@ -109,6 +109,13 @@
 	"DFFlagHumanoidIsInSwimState": "True",
 }
 ```
+### Female Interactions
+<!-- this is not real btw -->
+```json
+{
+	"DFFlagEnableFemaleInteraction": "True",
+}
+```
 ### ESP HIGHLIGHT
 <!-- this is not real btw -->
 ```json
