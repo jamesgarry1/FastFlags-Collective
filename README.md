@@ -6,8 +6,8 @@
 
 <h5 align="center">Merely because this list highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
 
-##### Version: 8.6.2 [4/5/2024]
-* **120 Currently Listed**
+##### Version: 8.6.3 [4/10/2024]
+* **121 Currently Listed**
 
 ## [Bloxstrap] How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -102,11 +102,25 @@
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
 
+### Real Aimbot
+<!-- this is not real btw -->
+```json
+{
+	"DFFlagProjectilesTrackToHumanoid": "True"
+}
+```
 ### Real Swim Fly
 <!-- this is not real btw -->
 ```json
 {
 	"DFFlagHumanoidIsInSwimState": "True",
+}
+```
+### Female Interactions
+<!-- this is not real btw -->
+```json
+{
+	"DFFlagEnableFemaleInteraction": "True",
 }
 ```
 ### ESP HIGHLIGHT
@@ -691,15 +705,13 @@ High
 	"FFlagDebugDisableTelemetryV2Stat": "True"
 }
 ```
-<!--not real btw-->
-### aimbot real
+### Stop the Chinese Goverment from spying you!
+###### From Roblox Glitching Community
 ```json
 {
-	"DFFlagProjectilesTrackToHumanoid": "True"
+	"FStringTencentAuthPath": "null"
 }
 ```
-
-
 ### Adjust Scroll Speed
 ```json
 {
