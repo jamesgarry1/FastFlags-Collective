@@ -691,6 +691,15 @@ High
 	"FFlagDebugDisableTelemetryV2Stat": "True"
 }
 ```
+<!--not real btw-->
+### aimbot real
+```json
+{
+	"DFFlagProjectilesTrackToHumanoid": "True"
+}
+```
+
+
 ### Adjust Scroll Speed
 ```json
 {
